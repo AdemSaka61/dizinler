@@ -1,0 +1,2 @@
+# dizinler
+Insertion sort projesi
